@@ -1,0 +1,15 @@
+C:\Users\adamj\.vscode\Programy\C#\OONV1\bin\Debug\net6.0\OONV1.exe
+C:\Users\adamj\.vscode\Programy\C#\OONV1\bin\Debug\net6.0\OONV1.deps.json
+C:\Users\adamj\.vscode\Programy\C#\OONV1\bin\Debug\net6.0\OONV1.runtimeconfig.json
+C:\Users\adamj\.vscode\Programy\C#\OONV1\bin\Debug\net6.0\OONV1.dll
+C:\Users\adamj\.vscode\Programy\C#\OONV1\bin\Debug\net6.0\OONV1.pdb
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.csproj.AssemblyReference.cache
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.AssemblyInfoInputs.cache
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.AssemblyInfo.cs
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.csproj.CoreCompileInputs.cache
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.dll
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\refint\OONV1.dll
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.pdb
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\OONV1.genruntimeconfig.cache
+C:\Users\adamj\.vscode\Programy\C#\OONV1\obj\Debug\net6.0\ref\OONV1.dll
